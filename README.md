@@ -27,8 +27,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution GitHub URL: [Add solution URL here](https://github.com/amigos81/social-links-profile-main.git)
-- Live Site URL: [Add live site URL here](https://amigos81.github.io/social-links-profile-main/)
+- Solution GitHub URL: [Add solution URL here](https://github.com/amigos81/stats-preview-card-component.git)
+- Live Site URL: [Add live site URL here](https://amigos81.github.io/stats-preview-card-component/)
 
 ## My process
 
